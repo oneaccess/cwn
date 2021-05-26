@@ -478,7 +478,7 @@
 	                                <span class="lbl" >A</span>
 	                            </span>
 	                            <ul>
-	                                <li><a href="cwn-report.html"><span class="lbl">A-1</span></a></li>
+	                                <li><a href="cwn-report.php"><span class="lbl">A-1</span></a></li>
 	                                <li><a href="#"><span class="lbl">A-2</span></a></li>
 	                            </ul>
 	                        </li>	                        
