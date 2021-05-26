@@ -418,7 +418,7 @@
 								<h4 class="modal-title" id="myModalLabel" style="margin-left:45px;">Qr Code Scan</h4>
 							</div>
 							<div class="modal-body">
-								<!--<iframe src="qr/qrscan.html" frameborder="0" height="100%" width="100%"></iframe>-->
+								<iframe src="qr/qrscan.html" frameborder="0" height="100%" width="100%"></iframe>
 							</div>
 							<div class="modal-footer">
 								<button type="button" class="btn btn-rounded btn-primary" data-dismiss="modal" style="margin-right:80px;">OK</button>
