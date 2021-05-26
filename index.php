@@ -429,12 +429,11 @@
 	<div class="mobile-menu-left-overlay"></div>			
 	<nav class="side-menu">
 	    <ul class="side-menu-list">		
-	        <li class="grey with-sub">
-	        <a align="center" data-toggle="modal" data-target="#ImportModal1"><span class="lbl">หนัง A</span></a>    
-		<!--<span>
+	        <li class="grey with-sub">	        
+		<span>
 	                <span class="font-icon font-icon-burger"></span>
-	                <span class="lbl">งานในระบบ</span>					
-	            </span>-->
+	                <span class="lbl"><a align="center" data-toggle="modal" data-target="#ImportModal1">นำหนังเข้าระบบ</a></span>					
+	            </span>
 	            <ul>
 	                <li class="with-sub">
 	                    <span>
