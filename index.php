@@ -430,10 +430,11 @@
 	<nav class="side-menu">
 	    <ul class="side-menu-list">		
 	        <li class="grey with-sub">
-	            <span>
+	        <a align="center" data-toggle="modal" data-target="#ImportModal1"><span class="lbl">หนัง A</span></a>    
+		<!--<span>
 	                <span class="font-icon font-icon-burger"></span>
 	                <span class="lbl">งานในระบบ</span>					
-	            </span>
+	            </span>-->
 	            <ul>
 	                <li class="with-sub">
 	                    <span>
