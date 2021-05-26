@@ -32,7 +32,7 @@
 	<header class="site-header">
 	    <div class="container-fluid">
 			
-	        <a href="index.html" class="site-logo">
+	        <a href="index.php" class="site-logo">
 	            <img class="hidden-md-down" href="index.html" src="img/logo-2.png" alt="">
 	            <img class="hidden-lg-up" href="index.html" src="img/logo-2-mob.png" alt="">
 	        </a>
