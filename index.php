@@ -506,7 +506,7 @@
 				</button>				
 	    </section>	
 	</nav><!--.side-menu-->
-	<div w3-include-html="cwn-dashboard.html"></div>
+	<div w3-include-html="cwn-dashboard.php"></div>
 	<script src="js/lib/jquery/jquery.min.js"></script>
 	<script src="js/lib/tether/tether.min.js"></script>
 	<script src="js/lib/bootstrap/bootstrap.min.js"></script>
